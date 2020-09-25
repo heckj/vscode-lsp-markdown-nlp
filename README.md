@@ -7,6 +7,10 @@ and the [lsp example code](https://github.com/microsoft/vscode-extension-samples
 
 Heavily documented sample code for <https://code.visualstudio.com/api/language-extensions/language-server-extension-guide>
 
+DEVNOTE:
+
+- could use <https://github.com/NaturalNode/natural#pos-tagger> for POS tagging to identify use of passive voice
+  
 ## Functionality
 
 This Language Server works for plain text file. It has the following language features:
